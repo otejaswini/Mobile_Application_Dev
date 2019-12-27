@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">InClass03</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="selectGender">Select Gender</string>
+    <string name="UserImage">UserImage</string>
+    <string name="save">Save</string>
+    <string name="Edit">Edit</string>
+    <string name="Name">Name</string>
+    <string name="Gender">Gender</string>
+    <string name="button_Save_text" />
+    <string name="rb_Female_text" />
+    <string name="rb_Male_text" />
+    <string name="Full_Name">Full Name</string>
+</resources>

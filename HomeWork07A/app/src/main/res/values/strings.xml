@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">HomeWork07A</string>
+    <string name="signup">Sign Up</string>
+    <string name="Signin" translatable="false">Login</string>
+    <string name="firstname">First Name</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="gender">Gender:</string>
+    <string name="create">Create Profile</string>
+    <string name="addtrip">Add New Trip</string>
+    <string name="firstname1">First Name</string>
+    <string name="lastname1">Last Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="gender1">Gender</string>
+    <string name="save">Update Profile</string>
+    <string name="chat">Chat Box</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="search">Search</string>
+    <string name="addtrip1">ADD TRIP</string>
+    <string name="addusersbutton">ADD USERS</string>
+    <string name="tripname">Trip Name</string>
+    <string name="Placename">Place Name</string>
+    <string name="createdBy">Created By</string>
+</resources>

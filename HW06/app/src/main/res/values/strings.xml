@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">StudentProfile</string>
+    <string name="avatar">My Avatar</string>
+    <string name="fname">First Name</string>
+    <string name="dep">Department</string>
+    <string name="dep1">CS</string>
+    <string name="DEP2">SIS</string>
+    <string name="DEP3">BIO</string>
+    <string name="other">Other</string>
+    <string name="save" translatable="false">Save</string>
+
+
+    <string name="edit">EDIT</string>
+    <string name="name">Name :</string>
+    <string name="studentid">Student ID :</string>
+    <string name="dept">Department :</string>
+</resources>

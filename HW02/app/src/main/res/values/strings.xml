@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PSCalculator</string>
+    <string name="title_activity_order">OrderActivity</string>
+    <string name="order" translatable="false">Your Order</string>
+    <string name="delivery">Delivery</string>
+</resources>

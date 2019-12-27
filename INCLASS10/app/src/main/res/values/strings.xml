@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">firebasetest</string>
+    <string name="add">Add Movie</string>
+    <string name="edit">Edit</string>
+    <string name="del">Delete Movie</string>
+    <string name="year">Show List By Year</string>
+    <string name="rating">Show List By Rating</string>
+</resources>

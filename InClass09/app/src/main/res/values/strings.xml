@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">InClass09</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Login">Login</string>
+    <string name="Sign_Up">Sign Up</string>
+    <string name="FirstName">First Name</string>
+    <string name="LastName">Last Name</string>
+    <string name="ChoosePassword">Choose Password</string>
+    <string name="RepeatPassword">Repeat Password</string>
+    <string name="SignUp">SignUp</string>
+    <string name="Cancel">Cancel</string>
+    <string name="sendto">Send To :</string>
+    <string name="subject">Subject</string>
+    <string name="message">Message</string>
+    <string name="cancel">Cancel</string>
+    <string name="send">Send</string>
+    <string name="close">Close</string>
+    <string name="Sender_Name">Sender Name</string>
+    <string name="Subject">Subject</string>
+    <string name="Created_At">Created At</string>
+    <string name="Message">Message</string>
+</resources>
